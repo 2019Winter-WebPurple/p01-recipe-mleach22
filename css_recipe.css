@@ -1,0 +1,17 @@
+/*
+* Megan Leach
+* February 22, 2019
+* CSS Project 01: Recipe
+*/
+
+/* The Universal Selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+background-color: aliceblue;
+}
